@@ -1,0 +1,42 @@
+METADATOS: Se inserta dentro de html <head> y </head> de un documento HTML ó XHTML.
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+	<meta name="DC.title" content="Apuntes de la web semántica">
+	<meta name="DC.identifier" content="https://univirtual.unicauca.edu.co/moodle/pluginfile.php/98582/mod_resource/content/1/Resumen%20de%20la%20web%20Sem%C3%A1ntica.pdf">
+	<meta name="DC.description" content="Apuntes de la Electiva Web Semántica">
+	<meta name="DC.subject" content="web semántica, xml, rdf, html">
+	<meta name="DC.language" scheme="ISO639-1" content="es">
+	<meta name="DC.creator" content="Miguel Ángel Niño">
+	<meta name="DC.type" scheme="DCMITYPE" content="http://purl.org/dc/dcmitype/Text">
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+	<meta name="DCTERMS.created" scheme="ISO8601" content="2017-02-23">
+
+DUBLIN CORE:Se inserta entre las etiquetas <body> y </body> de un documento HTML ó XHTML.
+
+<dl class="dublincore">
+	<dt>Título:</dt><dd class="title">Apuntes de la web semántica</dd>
+	<dt>Dirección:</dt><dd><a href="https://univirtual.unicauca.edu.co/moodle/pluginfile.php/98582/mod_resource/content/1/Resumen%20de%20la%20web%20Sem%C3%A1ntica.pdf" class="identifier">https://univirtual.unicauca.edu.co/moodle/pluginfile.php/98582/mod_resource/content/1/Resumen%20de%20la%20web%20Sem%C3%A1ntica.pdf</a></dd>
+	<dt>Descripción:</dt><dd class="description">Apuntes de la Electiva Web Semántica</dd>
+	<dt>Palabras clave:</dt><dd class="subject">web semántica, xml, rdf, html</dd>
+	<dt>Código de idioma:</dt><dd class="language">es</dd>
+	<dt>Autor/a:</dt><dd class="creator">Miguel Ángel Niño</dd>
+	<dt>Fecha de creación:</dt><dd class="created">2017-02-23</dd>
+</dl>
+
+MICROFORMATO RDF: Se puede vincular un fichero de este tipo insertando dentro de las etiquetas <head> y </head> de un documento HTML ó XHTML, una línea similar a la siguiente:
+
+<link rel="meta"
+	type="application/rdf+xml"
+	href="http://www.example.org/fichero.rdf" />
+
+
+*******
+
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+	xmlns:admin="http://webns.net/mvcb/">
+

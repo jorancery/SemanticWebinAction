@@ -1,0 +1,18 @@
+<rdf:Description rdf:about="https://univirtual.unicauca.edu.co/moodle/pluginfile.php/98582/mod_resource/content/1/Resumen%20de%20la%20web%20Sem%C3%A1ntica.pdf">
+	<dc:title>Apuntes de la web semántica</dc:title>
+	<dc:description>Apuntes de la Electiva Web Semántica</dc:description>
+	<dc:subject>
+		<rdf:Bag>
+			<rdf:li>web semántica</rdf:li>
+			<rdf:li>xml</rdf:li>
+			<rdf:li>rdf</rdf:li>
+			<rdf:li>html</rdf:li>
+		</rdf:Bag>
+	</dc:subject>
+	<dc:language>es</dc:language>
+	<dc:creator rdfs:Literal="Miguel Ángel Niño" />
+	<dcterms:Created><dcterms:W3CDTF><rdf:value>2017-02-23</rdf:value></dcterms:W3CDTF></dcterms:Created>
+	<dc:type rdfs:value="http://purl.org/dc/dcmitype/Text" />
+	<admin:generatorAgent rdf:resource="http://www.webposible.com/utilidades/dublincore-metadata-gen/" />
+</rdf:Description>
+</rdf:RDF>

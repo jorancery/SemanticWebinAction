@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\00 - Documentos y Talleres",
+    "\\00 - Documentos y Talleres\\talleres",
+    "\\01 - Anotacion semantica",
+    "\\01 - Anotacion semantica\\WebsiteAnotacion",
+    "\\01 - Anotacion semantica\\WebsiteAnotacion\\miguelnino",
+    "\\02 - XML - RDF",
+    "\\02 - XML - RDF\\Solución XML",
+    "\\jorancer"
   ],
   "PreviewInSolutionExplorer": false
 }

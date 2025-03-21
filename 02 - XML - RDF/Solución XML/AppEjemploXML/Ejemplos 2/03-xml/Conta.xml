@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListaContas>
+	<MiConta>
+		<Nombre>Carlos</Nombre>
+		<Apellidos>Sanchez</Apellidos>
+		<Telefono>123456</Telefono>
+	</MiConta>
+	<MiConta>
+		<Nombre>Andres</Nombre>
+		<Apellidos>Sanchez</Apellido>
+		<Telefono>123456</Telefono>
+	</MiConta>
+	<MiConta>
+		<Nombre>Jorge</Nombre>
+		<Apellidos>Perez</Apellido>
+		<Telefono>123456</Telefono>
+	</MiConta>
+
+</ListaContas>

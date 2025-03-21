@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AppEjemploXML", "AppEjemploXML\", "{AA3069DB-B599-4AE6-B91B-18D8675940BF}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
 		Debug.AspNetCompiler.VirtualPath = "/AppEjemploXML"
 		Debug.AspNetCompiler.PhysicalPath = "AppEjemploXML\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AppEjemploXML\"
